@@ -1,0 +1,10 @@
+{
+  "name": "dia-webbplats",
+  "private": true,
+  "description": "Webbplats för Dia Konsult & Rekrytering AB",
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes serve public",
+    "dev:vercel": "npx --yes vercel dev"
+  }
+}
